@@ -17,6 +17,7 @@ public enum Strings:String {
 public enum Sounds:String {
     case gameover
     case ding
+    case winning
 }
 
 public enum SKShits:String {
